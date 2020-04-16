@@ -1,0 +1,12 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "author": "Marc Dacanay",
+  "description": "GraphQL Demo Project",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "graphql": "^15.0.0"
+  }
+}
